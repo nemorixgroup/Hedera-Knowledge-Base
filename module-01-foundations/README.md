@@ -222,7 +222,7 @@ Three core principles guide everything Hedera builds:
  
 ---
  
-*Next: [Module 02 - The Hashgraph Algorithm](../module-02-hashgraph/README.md)*
+*Next: [Module 02 - The Hashgraph Algorithm](https://github.com/nemorixgroup/hedera-knowledge-base/tree/main/module-02-hashgraph)*
  
 ---
  
