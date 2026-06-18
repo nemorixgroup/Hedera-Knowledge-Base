@@ -132,6 +132,15 @@ This is not just another blockchain. Hedera is a **public distributed ledger** t
 This knowledge base was built through deep research, official Hedera documentation, published whitepapers, and hands-on development experience - including the construction of [`hedera-flutter-sdk`](https://github.com/nemorixpay/hedera-flutter-sdk), the first native Flutter/Dart SDK for the Hedera network.
  
 The goal is to provide the most clear, honest, and technically accurate resource available for understanding Hedera - from the inside out.
+
+## Support This Project
+
+If this project is useful to you or your team, consider supporting its development. Every contribution helps cover infrastructure, documentation, and the time invested in building and maintaining this
+open source resource for the Hedera blockchain community. Thank you!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nemorixgroupllc)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/nemorixgroup)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/nemorixgroupllc)
  
 ---
  
