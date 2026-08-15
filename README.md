@@ -45,7 +45,26 @@ hedera-knowledge-base/
 | 04 | [Native Services](./module-04-services/README.md) | HCS, HTS, HSCS, HFS, Mirror Node, HAPI |
 | 05 | [Development on Hedera](./module-05-development/README.md) | SDKs, accounts, transactions, Flutter integration |
 | 06 | [Ecosystem & Future](./module-06-ecosystem/README.md) | Use cases, enterprise adoption, comparisons, roadmap |
- 
+
+ ## SDK Technical Decisions
+
+This repository also documents the implementation decisions behind **hedera_flutter_sdk** - the first native Flutter/Dart SDK for the Hedera
+network. Every implementation decision is grounded in the official sources documented in this repository - no third-party references,
+no unverified code.
+
+Current status: **Phase 3 in progress**
+
+| Phase | Status |
+|-------|--------|
+| Phase 1 - Architecture + Protobuf | ✅ Done | 
+| Phase 2 - Crypto + Accounts | ✅ Done |
+| Phase 3 - HTS Tokens + NFTs | 🔄 In progress |
+| Phase 4 - Mirror Node + HCS | ⏳ Pending |
+| Phase 5 - Docs + Tests + pub.dev v1.0 | ⏳ Pending |
+| Phase 6 - Launch + HIP | ⏳ Pending |
+
+See [docs-sdk/](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/README.md) for the full documentation by phase.
+
 ## Official Resources
  
 ### Core
