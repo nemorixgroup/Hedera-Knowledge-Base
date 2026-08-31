@@ -53,8 +53,8 @@ docs-sdk/
 |---------|-------------|--------|
 | [v0.2.0-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.0-dev/README.md) | Fungible token creation | ✅ Done |
 | [v0.2.1-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.1-dev/README.md) | Account-to-token association | ✅ Done |
-| v0.2.2-dev | Token transfers | 🔄 Next |
-| v0.2.3-dev | Mint / Burn | ⏳ Pending |
+| [v0.2.2-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.2-dev/README.md) | Token transfers | ✅ Done |
+| v0.2.3-dev | Mint / Burn | 🔄 Next |
 | v0.2.4-dev | NFT support | ⏳ Pending |
 | v0.2.5-dev | KYC and freeze | ⏳ Pending |
 | v0.2.6-dev | Token queries | ⏳ Pending |
