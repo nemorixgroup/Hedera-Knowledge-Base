@@ -33,6 +33,8 @@ hedera-knowledge-base/
     - README.md                    <- SDKs, transactions, accounts, Flutter
 - module-06-ecosystem/
     - README.md                    <- Use cases, projects, comparisons, future
+- module-07-hts-evm/
+    - README.md                    <- HTS x EVM: Hybrid Tokenization
 ```
  
 ## Modules
@@ -45,6 +47,7 @@ hedera-knowledge-base/
 | 04 | [Native Services](./module-04-services/README.md) | HCS, HTS, HSCS, HFS, Mirror Node, HAPI |
 | 05 | [Development on Hedera](./module-05-development/README.md) | SDKs, accounts, transactions, Flutter integration |
 | 06 | [Ecosystem & Future](./module-06-ecosystem/README.md) | Use cases, enterprise adoption, comparisons, roadmap |
+| 07 | [HTS x EVM](./module-07-hts-evm/README.md) | HTS x EVM: Hybrid Tokenization |
 
  ## SDK Technical Decisions
 
@@ -163,5 +166,5 @@ open source resource for the Hedera blockchain community. Thank you!
  
 ---
  
-*Last updated: June 2026*
+*Last updated: October 2026*
 *Maintained by: [Miguel Fagundez](https://github.com/miguelfagundez) & [Nemorix Group, LLC](https://github.com/nemorixpay)*
