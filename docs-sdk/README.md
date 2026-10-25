@@ -56,8 +56,8 @@ docs-sdk/
 | [v0.2.2-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.2-dev/README.md) | Token transfers | ✅ Done |
 | [v0.2.3-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.3-dev/README.md) | Mint / Burn | ✅ Done |
 | [v0.2.4-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.4-dev/README.md) | NFT support | ✅ Done |
-| v0.2.5-dev | KYC and freeze | 🔄 Next |
-| v0.2.6-dev | Token queries | ⏳ Pending |
+| [v0.2.5-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.5-dev/README.md) | KYC and freeze | ✅ Done |
+| v0.2.6-dev | Token queries | 🔄 Next |
 | v0.2.7-dev | Custom fees | ⏳ Pending |
 
 ## Phase 4: Mirror Node + HCS
