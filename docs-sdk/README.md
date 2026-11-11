@@ -57,12 +57,21 @@ docs-sdk/
 | [v0.2.3-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.3-dev/README.md) | Mint / Burn | ✅ Done |
 | [v0.2.4-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.4-dev/README.md) | NFT support | ✅ Done |
 | [v0.2.5-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.5-dev/README.md) | KYC and freeze | ✅ Done |
-| v0.2.6-dev | Token queries | 🔄 Next |
-| v0.2.7-dev | Custom fees | ⏳ Pending |
+| [v0.2.6-dev](https://github.com/nemorixgroup/Hedera-Knowledge-Base/blob/main/docs-sdk/phase-3/v0.2.6-dev/README.md) | Token queries | ✅ Done |
+| v0.2.7-dev | Custom fees | 🔄 Next |
+| v0.2.8-dev | Token classes reorganization (no API change) | ⏳ Pending |
 
 ## Phase 4: Mirror Node + HCS
 
-⏳ Pending
+## Phase 4: Mirror Node + HCS
+
+The Mirror Node REST queries for tokens were delivered in v0.2.6-dev
+(Phase 3). Phase 4 starts with the consensus query infrastructure,
+before HCS.
+
+| Version | Description | Status |
+|---------|-------------|--------|
+| v0.3.0-dev | Consensus query execution (gRPC and query payment) | ⏳ Pending |
 
 ## Phase 5: Docs + pub.dev v1.0
 
